@@ -2,7 +2,7 @@
 *Files to look at*:
 
 * [Default.aspx](./CS/WebSite/Default.aspx) (VB: [Default.aspx](./VB/WebSite/Default.aspx))
-* [Default.aspx.cs](./CS/WebSite/Default.aspx.cs) (VB: [Default.aspx](./VB/WebSite/Default.aspx))
+* [Default.aspx.cs](./CS/WebSite/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/WebSite/Default.aspx.vb))
 * [ImagePropertiesForm.ascx](./CS/WebSite/DevExpress/ASPxHtmlEditorForms/ImagePropertiesForm.ascx) (VB: [ImagePropertiesForm.ascx](./VB/WebSite/DevExpress/ASPxHtmlEditorForms/ImagePropertiesForm.ascx))
 * [InsertImageForm.ascx](./CS/WebSite/DevExpress/ASPxHtmlEditorForms/InsertImageForm.ascx) (VB: [InsertImageForm.ascx](./VB/WebSite/DevExpress/ASPxHtmlEditorForms/InsertImageForm.ascx))
 <!-- default file list end -->
